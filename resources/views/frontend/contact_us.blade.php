@@ -5,7 +5,7 @@
 
 
 <!--breadcrumbs area start-->
-<div class="breadcrumbs_area">
+<div class="breadcrumbs_area" style="margin-bottom:30px;">
         <div class="container">   
             <div class="row">
                 <div class="col-12">
